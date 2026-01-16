@@ -1,7 +1,9 @@
 # About Me:
-BTech’27 || CSE || Web Development & UI/UX || DSA & Problem-Solving Focused || Ex-Toastmaster (2025) || Hacktoberfest’2025 Super Contributor || 
+I am a B.Tech ’27 CSE student with a passion for Web Development, UI/UX, and problem-solving through Data Structures & Algorithms. I love building impactful projects, contributing to open-source, and learning new technologies along the way.
 
+Ex-Toastmaster (2025), I’ve honed my leadership, communication, and mentorship skills. As a Hacktoberfest 2025 Super Contributor and an active participant in multiple hackathons, I enjoy collaborating with teams, solving real-world problems, and pushing the boundaries of what I can create.
 
+Always curious, always learning, and constantly building – my goal is to turn ideas into functional, user-friendly solutions while growing as a developer and a communicator.
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kavisha-bhatia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhatiakavya66@gmail.com) 
 
