@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 BTech’27 || CSE || Web Development & UI/UX || DSA & Problem-Solving Focused || Ex-Toastmaster (2025) || Hacktoberfest’2025 Super Contributor || 
 
 
