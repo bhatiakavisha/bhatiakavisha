@@ -6,23 +6,6 @@ Ex-Toastmaster (2025), I’ve honed my leadership, communication, and mentorship
 
 Always curious, always learning, and constantly building – my goal is to turn ideas into functional, user-friendly solutions while growing as a developer and a communicator.
 
-## 🏅 GSSoC 2026 Badges
-
-<p align="center">
-  <img src="./badges/gssoc-badge-early_bird.png" width="90">
-  <img src="./badges/gssoc-badge-rising_star.png" width="90">
-  <img src="./badges/gssoc-badge-bounty_master.png" width="90">
-  <img src="./badges/gssoc-badge-first_steps.png" width="90">
-  <img src="./badges/gssoc-badge-discord_verified.png" width="90">
-</p>
-
-<p align="center">
-  <img src="./badges/gssoc-badge-profile_complete.png" width="90">
-  <img src="./badges/gssoc-badge-point_scorer.png" width="90">
-  <img src="./badges/gssoc-badge-bounty_hunter.png" width="90">
-  <img src="./badges/gssoc-badge-week_one.png" width="90">
-</p>
-
 ## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kavisha-bhatia/)
