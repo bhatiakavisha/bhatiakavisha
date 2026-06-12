@@ -41,7 +41,3 @@ Always curious, always learning, and constantly building – my goal is to turn 
 * 🏅 GSSoC 2026 Contributor
 * 🚀 Hacktoberfest 2025 Super Contributor
 * 🎤 Ex-Toastmaster (2025)
-
-### Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=bhatiakavisha\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
