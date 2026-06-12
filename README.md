@@ -42,19 +42,6 @@ Always curious, always learning, and constantly building – my goal is to turn 
 * 🚀 Hacktoberfest 2025 Super Contributor
 * 🎤 Ex-Toastmaster (2025)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=bhatiakavisha\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhatiakavisha\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatiakavisha\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
 ### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=bhatiakavisha\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=bhatiakavisha\&icon=0\&color=0)](https://visitcount.itsvg.in)
-tsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
